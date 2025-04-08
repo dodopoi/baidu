@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 众里寻他千百度</title>
-    <link>https://baidu.xiaoxiami.co/tags/</link>
+    <link>https://baidu.occamsrazor.cn/tags/</link>
     <description>Recent content in Tags on 众里寻他千百度</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="https://baidu.xiaoxiami.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://baidu.occamsrazor.cn/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
